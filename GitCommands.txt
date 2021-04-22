@@ -1,0 +1,26 @@
+git clone https://github.com/rajat-jain-by/github-slideshow.git (this command is used to clon ethe repository)
+go inside this branch after cloning this branch
+git branch Test123 (this will create new branch locally)
+git branch --all (thios will give all the branch or this repo)
+git push --set-upstream origin branchName (this will push the branch to the git hub)
+git checkout Test123 (this command is to move to the branch you want)
+git status (this will tell on which branch you exist)
+git add fileName (this will add file to your branch)
+git commit -m "comments to be add" (commit locally to your branch)
+git push (push this changes to the Git hub)
+git merge branchName (to merge branch to staging)
+git push (push this merge to the master branch)
+git branch -d branchName (this will delete the branch locally)
+git init github-upload( this will create github-upload repo)
+touch .gitignore(this will add binary files on the project)
+git remote add origin https://github/url.git (this will upload the project in Git)
+git add .(this will commit all the files from the folder)
+git push -u origin master(this will merge the changes to master)
+
+
+
+
+
+
+
+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
